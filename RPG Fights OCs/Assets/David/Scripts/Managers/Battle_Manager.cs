@@ -13,8 +13,9 @@ public class Battle_Manager : MonoBehaviour
     private Transform charsConfrontPos; // Posiciones de batalla para los personajes
     private Transform enemsConfrontPos; // Posiciones de batalla para los enemigos
     private float[,] actorsData; // Datos de todos los actores
+    asda
     /* Primer elemento el Numero del actor - Segundo elemento es el dato
-
+    
     0 Aliado o Enemigo
     1 Vida
     2 Vida Maxima
