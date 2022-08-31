@@ -1,0 +1,9 @@
+ID	Character	Next Dialogue	Spanish	English
+0	Amarillo	1	"Hola!, soy el /color:yellow/Amarillo /color:white/y soy /emote:Feliz/muy especial"	"Hi!, I'm the /color:yellow/Yellow /color:white/one and I'm special"
+1	Rojo	2	"Hola!, soy el /color:red/Rojo /color:white/y no soy /emote:Triste/especial"	"Hi!, I'm the /color:#ff4040/Red /color:white/one and I'm not special"
+2	Amarillo		Y esto es /speed:down/disney channel	And this is /speed:down/disney channel
+3	Rojo	4	Tu mama es mi papa	Your mom is my dad
+4	Amarillo		Hola todo el mundo soy markiplier y bienvenidos a fnaf	Hello everybody my name is markiplier and welcome to fnaf
+				
+				
+				

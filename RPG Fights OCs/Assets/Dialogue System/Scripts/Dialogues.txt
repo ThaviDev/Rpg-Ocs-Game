@@ -1,0 +1,4 @@
+ID	Character	Next Dialogue	Spanish	English
+1	Amarillo	2	Hola!, soy el /color:yellow/Amarillo /color:white/y soy especial	Hi!, I'm the /color:yellow/Yellow/color:white/one and I'm special
+2	Rojo		Hola!, soy el /color:red/Rojo /color:white/y no soy especial	Hi!, I'm the /color:yellow/Red/color:white/one and I'm not special
+3	Azul			
