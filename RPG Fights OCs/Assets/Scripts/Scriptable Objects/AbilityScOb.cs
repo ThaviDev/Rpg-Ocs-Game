@@ -4,35 +4,44 @@ using UnityEngine;
 [CreateAssetMenu]
 public class AbilityScOb : ScriptableObject
 {
-    public float[] ability; // Las características de la habilidad Siendo ejecutada en el presente
-    /* elementos
-    0 - Tipo de habilidad == 1 - Ataque, 2 - Curacion, 3 - Cambio de Velocidad, 4 - Cambio de Danio
-    1 - Cantidad de efecto == *Numero de danio afectado, o numero de curacion, [depende del tipo de habilidad]*
-    2 - Turnos necesitados == 0 - Es inmediato, 1 - Un turno extra en hacerse, 2 - Dura dos turnos en hacerse, 3 - dura tres turnos, 4...
-    3 - Hay confrontacion == 0 - No, 1 - Si 
-    4 - Duracion del efecto == 0 - No hay efecto(es inmediato), 1 - Dura un turno, 2 - Dura dos turnos... etc.
-    5 - Tiempo del efecto == 20 - Dura veinte segundos la animacion de la habilidad
-    6 - Metodo de ecuacion de la habilidad == 0 - Suma, 1 - Multiplicacion, 2 - Division
-    7 - Efecto Secundario == 0 - No hay efecto Secundario, 1 - Ataque, 2 - Curacion, 3 - Cambio de Velocidad, 4 - Cambio de Danio
-    8 - Objetivo del efecto Secundario == 0 = Targeted char1, 1 = Tageted char2, 2 - char3, 3 - enem1, 4 - enem2, 5 - enem3, 6 - Todos los aliados, 7 - Todos los Enemigos, 8 Él mismo
-    9 - Cantidad de efecto secundario == *Numero de danio afectado, o numero de curacion, [depende del tipo de habilidad]*
-    10 - Efecto Terciario == 0 - No hay efecto Secundario, 1 - Ataque, 2 - Curacion, 3 - Cambio de Velocidad, 4 - Cambio de Danio
-    11 - Cantidad de efecto Terciario == *Numero de danio afectado, o numero de curacion, [depende del tipo de habilidad]*
-    12 - Objetivo del efecto Terciario == 0 = Targeted char1, 1 = Tageted char2, 2 - char3, 3 - enem1, 4 - enem2, 5 - enem3, 6 - Todos los aliados, 7 - Todos los Enemigos, 8 Él mismo
-    */
+    public int actorID;
+    public int[] abilityData = new int[8]; // Las características de la habilidad Siendo ejecutada en el presente
     /*
-    public float typeAbility;
-    public float abilityQuantity;
-    public float neededTurns;
-    public float isThereConfrontacion;
-    public float effectDuration;
-    public float actionTime;
-    public float typeAbilitySecund;
-    public float secundTarget;
-    public float secundAbilityQuantity;
-    public float typeAbilityThird;
-    public float thirdTarget;
-    public float thirdAbilityQuantity;
-    */
-    //public float 
+     * 0 - turnos de la habilidad
+     * 1 - precision
+     * 2 - criticos aleatorios
+     * 3 - es apuntable (1 si, 0 no)
+     * 4 - hay confrontación (1 si, 0 no)
+     * 5 - cantidad de cooldown (en turnos)
+     * 6 - Objetivo Posible (0 al enemigo, 1 al aliado, 2 a uno mismo)
+     * 7 - Cantidad de acciones
+     */
+    public int[] action1 = new int[4];
+    /*
+     * 0 - clasificacion de la accion (Suma o resta 0, Multiplicacion o division 1)
+     * 1 - tipo de aplicacion
+     *     0 Curacion - Danio
+     *     1 Aumento vida maxima - Reduccion de vida maxima
+     *     2 Mayor velocidad - Menor velocidad
+     *     3 Mayor Resistencia al daño - Menor Resistencia al daño
+     *     4 Aumento de daño - Reduccion de daño
+     *     5 Aumento curacion - Reduccion curacion
+     *     6 Aumento mayor velocidad - Reduccion mayor velocidad
+     *     7 Aumento menor velocidad - Reduccion menor velocidad
+     *     8 Dormir - Despertar
+     *     9 Muerte instantanea - Resurección
+     *     10 Aturdir - Reaccionar
+     *     11 Aumento de duracion de cooldowns - Reduccion de duracion de cooldowns
+     *     12 Restauracion cooldowns
+     *     13 Aumento de recovery - Reduccion de recovery (cantidad de turnos que dura la habilidad)
+     *     14 Mayor cantidad de criticos - Menor cantidad de criticos
+     *     15 Mayor precision - Menor precision
+     *     
+     * 2 - cantidad que se aplicara
+     * 3 - turno para aplicar (de la cantidad de turnos de la habilidad en cual de ellos se ejecuta la accion)
+     */
+    public int[] action2 = new int[4];
+    public int[] action3 = new int[4];
+
+
 }
