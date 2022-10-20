@@ -1,0 +1,252 @@
+ID	Character	Next Dialogue	Spanish	English
+0	Nabucodonosor	1	/emote:Feliz/Hola jugador, agradezco tanto que hayas descargado esta /color:#2fd91b/alpha	/emote:Feliz/Hello player! thanks for downloading this /color:#2fd91b/alpha
+1	Nabucodonosor	2	/emote:Feliz/Estoy muy agradecido por tú apoyo a este videojuego	/emote:Feliz/I'm thankful of your support to this videogame
+2	Nabucodonosor	3	Si quieren, por favor siganme en /color:#2ab3e5/“twiterend” /color:#ffffff/por si quieren ver mi desarrollo	If you want, please follow me on /color:#2ab3e5/“twiterend” /color:#ffffff/if you want to see my development
+3	Nabucodonosor	4	Ahí escribo muchas cosas sobre el desarrollo y… ¿ya dije lo agradecido que estoy?	I write stuff about the development there and… ¿i already said that i'm thankful?
+4	Nabucodonosor	5	Una disculpa si no he podido terminar mucho estos últimos meses, es que estoy atorado con un horrendo /color:#2fd91b/glitch/color:#ffffff/ que hace que los personajes tengan epilepsia y parpadeen en pantalla, /wait:1.5f/no sé por qué	Sorry for not finishing much this month, i'm stuck with a horrible /color:#2fd91b/glitch/color:#ffffff/ que hace que los personajes tengan epilepsia y parpadeen en pantalla, /wait:1.5f/no sé por qué
+5	Nabucodonosor	6	Pero les prometo que podré arreglarlo, en verdad se los prometo, tendré muchos avances	But i promise that i will fix it, i really promise, i'll have many progress!
+6	Nabucodonosor	7	Bueno, no olviden apoyarme siguiéndome en /color:#2ab3e5/“Twitterend”	Well, don't forget to support me following me on /color:#2ab3e5/“Twitterend”
+7	Nabucodonosor	8	/emote:Perturbado/Ay, creo que estoy pidiendo demasiado, seguro quieren jugar el juego ahora	/emote:Perturbado/Oops, i think i'm asking for too much, i'm sure you want to play the game already
+8	Nabucodonosor		/emote:Feliz/Pues, adelante	/emote:Feliz/Well, go ahead!
+9	Carta de inicio	10	Hace cientos de miles de eones, antes que existiera el planeta actual, hubo una oscuridad consciente, la cual marcó la destrucción del universo como su único propósito	Thousands of eons ago, before the actual planet existed, there was a conscious darkness, which marked the destruction of earth as his only purpose.
+10	Carta de inicio	11	Su maldad fue inconmensurable. Hasta que un día, como si el mundo tuviese un salvador, llegaron los pleyadianos, quienes encarcelaron a la maldad sin posibilidad de escape	His evil was indescribable. Until one day, as if the world had a savior, the playedians came, which trapped evil without a possibility of escaping
+11	Carta de inicio	12	Tras milenios de orden en el universo, la ocurrencia de un científico, Rafael, hizo que todo cambiara	After milleniums of order in the universe, the occurency of a scientist, Raphael, made everything change
+12	Carta de inicio	13	Sus motivaciones tenían un sentido para el humano, ¿pero a costa de qué? Quiso tomar la fuerza de la oscuridad para generar energía eléctrica que no tendría final	His objectives had sense por the humans, but at what cost? He wanted to take the forces of darkness to generate electricity without end
+13	Carta de inicio		El mundo parecía estar en la completa ruina. Hasta que un día, un héroe fue despertado por Tester, una inteligencia artificial. Su misión, detener al científico y restaurar el orden al universo	The world seemed to be in complete chaos. Until one day, Tester, an AI, woke up a hero. His mission, stopping the scientist and restoring the order of the universe!
+14	Tester	15	Hola héroe, te he despertado porque está a punto de suceder una catástrofe	Hello hero, i woke you up because a disaster is about to happen
+15	Tester	16	Rafael es un malvado científico que liberará una fuerza maligna	Raphael is an evil scientist who will free an evil force
+16	Tester	17	No sabemos qué quiere hacer con este poder, pero podría destruir el universo, y solo /color:#ffa900/TÚ /color:#ffffff/puedes detenerlo	We don't know what he wants to do with this power, but it can destroy the universe, and only /color:#ffa900/YOU /color:#ffffff/can stop him
+17	Héroe	18	Hmmm... yo sé qué hará con el poder	Hmmm... i know what he will do with his power
+18	Tester	19	/emote:Perturbado/Espera ¿qué? /color:#2ab3e5/no se supone que puedas hablar	/emote:Perturbado/Wait, what? /color:#2ab3e5/you're not supposed to talk!
+19	Héroe	20	¿En serio?	Really?
+20	Tester	21	Sí...	Yes...
+21	Tester	22	Aunque, espera, /color:#2ab3e5/yo tampoco debería...	Oh wait, /color:#2ab3e5/i shouldn't either
+22	Tester	23	Estoy acostumbrado a que no hables y solo empieces tu aventura. /color:#ffffff/Esto es un videojuego...	
+23	Héroe	24	/emote:Perturbado/¿Un videojuego?	
+24	Tester	25	Sí, nosotros actuamos para que pueda funcionar	
+25	Héroe	26	/emote:Perturbado/¿Cómo que un videojuego...?	
+26	Héroe	27	Bueno, tiene sentido, vi una presentación al inicio	
+27	Tester	28	Oh, ¿así que también viste las imágenes y el texto?	
+28	Héroe	29	Sí, exacto	
+29	Tester		Probablemente esto sea parte de un error de programación. Ahora tenemos consciencia propia...	
+30	Héroe	31	/emote:Perturbado/¡Diablos, es verdad! /color:#ffffff/el juego está lleno de errores	
+31	Tester	32	/emote:Enojado/¡Pero es /color:#2fd91b/NUESTRA obra!/color:#ffffff/ deberíamos poder hacer algo	
+32	Tester	33	Espera...	
+33	Tester	34	Sí podemos, /color:#ffa900//emote:Feliz/¡con la ayuda del jugador! 	
+34	Tester	35	Quizá esta no sea la aventura que planeabas, pero ¿nos ayudarías a arreglar los errores del juego, jugador?	
+35	Tester		Eres libre de no ayudarnos, pero si lo haces, cerrarás el juego	
+36	Tester	37	/emote:Feliz/¡Excelente!	
+37	Héroe	38	¿Con quién hablas?	
+38	Tester	39	Con el jugador, él te controlará	
+39	Tester	40	Te usará como medio para poder arreglar el juego	
+40	Héroe	41	¡Ah! tiene sentido. Deberíamos arreglar nuestro mundo ¿no?	
+41	Héroe	42	Cedo mis habilidades a /color:#ffa900/EL JUGADOR/color:#ffffff/, para que podamos arreglar el videojuego juntos! /color:#2ab3e5/NUESTRO VIDEOJUEGO	
+42	Tester		Por cierto, héroe y jugador, /color:#2ab3e5/los voy a seguir a través de toda su aventura por si necesitan de mi ayuda	
+43	Héroe	44	¡Mira, enemigos!	
+44	Tester		Ten cuidado, /color:#2ab3e5/ellos te bloquean el paso/color:#ffffff/, ya sabes qué hacer	
+45	Héroe	46	/emote:Feliz/Hola, buenos días señor	
+46	Pastor	47	Hola…	
+47	Pastor	48	/emote:Feliz/¡Oh wow! ¿acaso eres el legendario héroe?	
+48	Héroe	49	/emote:Feliz/El mismo, el héroe legendario	
+49	Pastor	50	/emote:Feliz/¡Te estoy tan agradecido por tu buen actuar! gracias a ti el mundo podrá estar libre de la maldad...	
+50	Pastor	51	O algo así…	
+51	Pastor	52	Supongo...	
+52		53	...	
+53	Pastor	54	Espera ¿quién eres?	
+54	Héroe	55	¿Qué?	
+55	Pastor	56	¿Yo dije eso, que eres el héroe legendario? ¡pero jamás te había visto en mi vida, /color:#2ab3e5/ni siquiera se por qué estoy disfrazado de pastor	
+56	Héroe	57	Oh, amm. Esto es un videojuego señor, /color:#2ab3e5/es su rol	
+57	Pastor	58	/emote:Perturbado/¡¿Mi rol?!	
+58	Héroe	59	Sí, y mi rol es ser el héroe	
+59	Pastor	60	Aah, ya. Yo...	
+60	Pastor	61	Supongo que eso es inmoral pero, estoy viejo ¿sabes? yo seguiré las órdenes que me digan	
+61	Héroe	62	¿Y qué se supone que debías decir ahora?	
+62	Pastor	63	Amm, /wait:1.5f/no sé	
+63	Pastor	64	Pero bueno, yo seguiré con mi rebaño de ovejas. Tú lucha contra el sistema y esas cosas, yo he luchado en suficientes revoluciones	
+64	Héroe	65	Amm, no estoy luchando contra...	
+65	Pastor	66	/emote:Perturbado/¡Impide que bombardeen tu hogar, no dejes que suceda lo que pasó en el 47!	
+66	Héroe	67	Ammm...	
+67	Pastor		¡Arriba la revolución chico!	
+68	Héroe	69	¿Estás seguro de que te gusta ser pastor?	
+69	Pastor	70	¿Cómo? ¡claro! para alguien viejo como yo es lo mejor que puedo hacer. Por cierto ¿qué arma de fuego estás usando para esta guerra?	
+70	Héroe	71	Aammm...	
+71	Pastor	72	Usa una calibre 50 hermano me lo vas a agradecer	
+72	Héroe	73	No pareces feliz con lo que haces...	
+73	Héroe	74	Digo, quizá estar en guerra te afectó, pero aun así no parece que quieras ser pastor	
+74	Pastor	75	¡Bah! tonterías. Mira chico, te daré un consejo, en la vida uno debe de conformarse	
+75	Pastor	76	He luchado antes ¿pero a qué costo? ¿si lucho contra el sistema hoy, seré feliz después?	
+76	Héroe	77	Pues, quizá sí, eso deseas ¿no?	
+77	Pastor	78	Mis deseos no importan chico, importa mi seguridad. Estabilidad, garantía ¿sabes?	
+78	Héroe		Entiendo…	
+79		80		
+80	Oveja	81	Baahh	
+81	Héroe	82	/emote:Feliz/Hola ovejita, ¿cómo está todo?	
+82	Oveja	83	Baaaaahhhhhh	
+83	Héroe	84	Que tierna y bonita oveja, tienes lana tan suave y cálida	
+84	Oveja	85	/emote:Enojado/¡Quítate de encima!	
+85	Oveja	86	Digo, Baaahhh	
+86	Héroe		…	
+87	Héroe		Será mejor que no me vuelva a acercar	
+88	Tester	89	/emote:Feliz/¡Excelente, héroe! has terminado con la primera parte, es hora de continuar a la siguiente sección	
+89	Héroe	90	/emote:Feliz/¡Genial! continuemos la aventura jugador	
+90	Héroe	91	A menos que quieras seguir explorando...	
+91	Héroe	92	Aunque tal vez no deberíamos, no tenemos mucho tiempo /emote:Perturbado/¡El villano terminará su máquina para acabar con el mundo y…!	
+92	Tester	93	No hay prisa	
+93	Héroe	94	¿Qué?	
+94	Tester	95	La historia avanza cuando el jugador avanza, /color:#2fd91b/no importa cuánto te tardes	
+95	Héroe	96	Entonces ¿están esperando a que llegue el jugador para que las cosas continúen?	
+96	Tester	97	Supongo que sí, aunque creo que es mejor no cuestionarlo tanto	
+97	Héroe	98	/emote:Perturbado/¿Acaso el mundo no existe hasta que nosotros estamos en él? /emote:Normal/Espera…	
+98	Héroe	99	/emote:Perturbado/¿¡Acaso el villano jamás hará sus maldades si nos quedamos estáticos en esta zona del juego?!	
+99	Tester	100	¿Qué te acabo de decir?	
+100	Héroe	101	Ah, eeeh. Perdón no estaba prestando atención.	
+101	Tester	102	/color:#2fd91b/No te cuestiones tanto las cosas	
+102	Héroe	103	Ah, vale, no lo haré…	
+103	Héroe	104	Oye ¿alguna vez te lo has preguntado?	
+104	Tester	105	¿Qué cosa?	
+105	Héroe	106	Cuestionar /color:#2fd91b/¿qué significa exactamente?	
+106	Tester	107	¿No sabes hablar héroe?	
+107	Héroe	108	No, no, quién lo inventó. Por qué la palabra es cómo es. ¿Cómo era ese pensamiento antes de que existiese la palabra?	
+108	Tester	109	Amm, no sé, supongo que viene del latín o el griego, o...	
+109	Tester	110	Cualquiera de esos lenguajes antiguos	
+110	Héroe	111	¿Pero de dónde surgieron ellos? ¿los inventó alguien o surgieron de repente?	
+111	Tester	112	Bueno, supongo que…	
+112	Tester	113	/emote:Enojado/¡Oye, te dije que no te cuestionaras tanto las…!	
+113	Héroe	114	/emote:Feliz/¡Jajajajajajajajaja!	
+114	Tester	115	Eh, ¿qué?	
+115	Héroe	116	Te atrapé, /color:#2fd91b/¡te hice cuestionar mucho las cosas!	
+116	Tester	117	/emote:Enojado/...	
+117				
+118	Eoger	119	/emote:Perturbado/¿Qué? ¿Dónde estoy?	
+119	Héroe	120	Hola	
+120	Eoger	121	¿Quién eres tú?	
+121	Héroe	122	Soy Héroe o, El Héroe	
+122	Eoger	123	¿Qué?	
+123	Héroe	124	Héroe, mi nombre es Héroe	
+124	Eoger	125	/emote:Enojado/¿Y eso qué? ¿dónde estoy?	
+125	Héroe	126	Ah, emm...	
+126	Héroe	127	Estás en el campo compañero, acabas de aparecer en este mundo	
+127	Héroe	128	Aunque bueno, supongo que más bien…	
+128	Héroe	129	Te invoqué para ayudarme en mi misión de derrotar al malvado villano que planea…	
+129	Eoger	130	/emote:Feliz/¡Jajajajaja! ¿Quién te puso ese ridículo nombre?	
+130	Héroe	131	Eemmm	
+131	Eoger	132	¿Héroe? ¡Claro que sí! y yo me llamo ladrón /emote:Feliz/JAJAJAJAJA	
+132	Héroe	133	...	
+133	Eoger	134	Ah por cierto, mi nombre es Eoger	
+134	Héroe	135	Sí, lo sé, lo vi en tu caja de texto	
+135	Eoger	136	Okey, sí ¿Dónde diantres estamos?	
+136	Héroe	137	Estás en el valle del pastor	
+137	Héroe	138	No, espera creo que debería comenzar con que…	
+138	Héroe	139	Estás dentro de un videojuego	
+139	Eoger	140	/emote:Perturbado/¡¿Qué, UN VIDEOJUEGO?!	
+140	Eoger	141	Lo que me faltaba, después de estar atrapado en ese cómic	
+141	Héroe	142	Ah, sí, supongo. Mira, tenemos que vencer al villano antes de que acabe con el mundo	
+142	Eoger	143	¿¡Tenemos?!	
+143	Eoger	144	¿Quién tiene? /color:#2fd91b/yo no tengo qué hacer nada/color:#ffffff/, piérdete	
+144	Héroe	145	Uh, yo, pero va a acabar con el mun…	
+145	Eoger	146	¡Este mundo no es real! me estás diciendo que es un videojuego	
+146	Héroe	147	Amm, mire señor, será un videojuego, pero este es /color:#2fd91b/MI VIDEOJUEGO/color:#ffffff/. Y mientras no estés en tu comiquita o lo que sea, es tuyo también	
+147	Héroe	148	Si no trabajamos juntos, morirás ¿entiendes?	
+148	Héroe	149	Cuando eso pase no solo no podrás estar aquí, pero tampoco en un cómic, ni en una película, ni en todo el universo	
+149	Eoger	150	Pfff. Supongo que esto es muy real para ti ¿no?	
+150	Héroe	151	Ajá…	
+151	Eoger	152	Bien, héroe./color:#2fd91b/ Te ayudaré	
+152	Eoger	153	Pero solo quiero que me digas una cosa	
+153	Héroe	154	Sí, dime	
+154	Eoger	155	El pastor, ese de allá ¿se llama pastor?	
+155	Héroe	156	Amm, s-sí…	
+156	Eoger	157	¿La oveja se llama oveja?	
+157	Héroe	158	Pues…	
+158	Eoger	159	¿El prado se llama prado?	
+159	Héroe	160	...	
+160	Eoger	161	/emote:Feliz/¡JAJAJAJAAJAJA! Tremendo juegazo al que me han metido	
+161	Eoger	162	Bueno, si estoy en lo correcto, hay que ganar el juego y entonces volveré a mi realidad	
+162	Héroe	163	¿Cómo sabes eso?	
+163	Eoger	164	Así funciona siempre. Funcionaba así en los videojuegos de Ghonderien ¿entiendes?	
+164	Héroe	165	Eeh, no…	
+165	Eoger	166	¡Bah! está bien, igual sostengo lo que creo	
+166	Héroe	167	¿Eso quiere decir que si yo completo el juego,/color:#2fd91b/ también podré volver a mi lugar de origen/color:#ffffff/?	
+167	Eoger	168	Si es que tuviste uno para empezar…	
+168	Héroe		Creo que me gustaría saberlo…	
+169	Héroe	170	/emote:Perturbado/¡Aaaahh!	
+170	Héroe	171	/emote:Perturbado/Rayos ¡Eres muy oscuro!	
+171	Andras	172	Supongo que mi apariencia puede asustar a otros...	
+172	Andras	173	Mi nombre es Andras, ¿saben en qué realidad estoy?	
+173	Héroe	174	Yo soy héroe, estás dentro de un videojuego	
+174	Andras	175	Ah, videojuegos. Me suena de algo…	
+175	Andras	176	Espera ¿dijiste que soy oscuro?	
+176	Héroe	177	Ah, sí, yo...	
+177	Eoger	178	Héroe es racista	
+178	Héroe	179	/emote:Enojado/¡Oye, no lo soy! solo me dio un susto	
+179	Eoger	180	Por ser negro	
+180	Héroe	181	/emote:Perturbado/¿¡Qué?! ¡no, claro que no! /emote:Normal/es solo que luce muy extraño	
+181	Eoger	182	Y negro	
+182	Héroe	183	/emote:Enojado/...	
+183	Andras	184	A ver babosos ¿saben por qué estoy aquí?	
+184	Héroe	185	Si, estás aquí para ayudarme, necesitamos derrotar al villano que planea destruir el mundo	
+185	Eoger	186	¡Él no está aquí PARA ayudarte! está aquí para hacer lo que quiera hacer y si quiere te ayudará	
+186	Héroe	187	Pero Eoger, lo necesitamos para…	
+187	Eoger	188	¡Los negros tienen derechos Héroe!	
+188	Héroe	189	/emote:Perturbado/¿¡Qué?! ¡no lo digo por eso, es que él necesita…!	
+189	Eoger	190	¿Necesita? héroe, muy seriamente debes reconsiderar tus principios, me das pena	
+190	Andras	191	Bueno, si estoy para ayudarlos…	
+191	Andras	192	/color:#2fd91b/Supongo que me beneficiará	
+192	Héroe	193	¿Beneficiarte, cómo?	
+193	Andras	194	Yo…	
+194	Andras	195	/emote:Triste/He hecho cosas horribles en el pasado. Cosas imperdonables…	
+195	Héroe	196	/emote:Perturbado/¿¡Cómo?!	
+196	Andras	197	Quizá así pueda hacerle cara a mis actos, ayudándolos...	
+197	Héroe	198	Bien. Entonces acompáñanos	
+198	Héroe	199	/color:#2fd91b/Pero estaré vigilándote/color:#ffffff/, luces muy sombrío	
+199	Eoger	200	Héroe...	
+200	Héroe		/emote:Enojado/¡Que no, no soy racista!	
+201	Ermitaño	202	/emote:Feliz/Hola amigos aventureros, disculpen que los moleste	
+202	Ermitaño	203	/emote:Triste/Me siento algo solo aquí, en mi soledad solitaria	
+203	Ermitaño	204	¿No les gustaría que les diera algo de comer?	
+204	Ermitaño	205	O... ¿que ustedes me den?	
+205	Héroe	206	¿Por qué estás aquí?	
+206	Ermitaño	207	Oh, bueno, quería alejarme de todo para…	
+207	Ermitaño	208	/color:#c51bd9/Encontrar mi paz interior	
+208	Ermitaño	209	Pero más importante que eso, /emote:Feliz/para no hacer nada y jugar con mis orbes todo el día	
+209	Ermitaño	210	/emote:Feliz/¡Son muy divertidos,/color:#2fd91b/ soy un fanático de la producción de orbes/color:#ffffff/!	
+210	Héroe	211	Hmm, esos orbes lucen poderoso...	
+211	Héroe	212	De casualidad, ¿tienes orbes que nos puedan ayudar a combatir a nuestros enemigos?	
+212	Ermitaño	213	¿Eh? perdón	
+213	Ermitaño	214	Vendí la gran mayoría de orbes de combate para comprar más orbes ¿quieres jugar con ellos?	
+214	Héroe	215	No gracias, no estoy interesado	
+215	Ermitaño	216	Jaja tu te lo pierdes, jugar con estos es de lo mejor	
+216	Ermitaño	217	¡Darles de lenguetazos es fantástico, te pone al tope de cachondo!	
+217	Eoger	218	Este tipo está enfermo, deberíamos golpearlo	
+218	Héroe	219	No digas eso, se supone que somos héroes	
+219	Eoger		Aburrido, jamás entenderás lo satisfactorio que es golpear perdedores	
+220	Héroe	221	Amm, ermitaño. Supongo que te entretiene mucho jugar con los orbes, /color:#2fd91b/pero creo que te podría hacer daño	
+221	Héroe	222	/emote:Perturbado/¡Estás todo el día haciendo eso!	
+222	Ermitaño	223	Si, es que me encanta, aunque ya cada vez sirven menos orbes	
+223	Andras	224	Si una persona tan inutil como tu puede tener en sus manos objetos tan poderosos...	
+224	Andras	225	Creo que tiene sentido el por qué alguien tendría la capacidad de destruir el mundo	
+225	Héroe	226	Oye Ermitaño ¿cómo es que sirven menos, /color:#2fd91b/no tienen energía continúa/color:#ffffff/!?	
+226	Ermitaño	227	Pero ya les di muchos lenguetazos, /color:#2fd91b/ya no sirven	
+227	Héroe	228	¿Qué?	
+228	Ermitaño	229	/emote:Enojado/Como este, /color:#2fd91b/¡para la basura, el que sigue!	
+229	Héroe	230	Oye, /color:#2fd91b/¡pero parece estar en un excelente estado!	
+230	Héroe	231	No vas a malgastar un orbe como este ¿o si?	
+231	Ermitaño	232	¡Ooooyee mira, este orbe sí me gusta, /color:#2fd91b/llevo veinte años con él/color:#ffffff/!	
+232	Héroe	233	Amm, Ermitaño, /color:#2fd91b/ese orbe ya no tiene energí...	
+233	Ermitaño	234	/speed:up/¡Le daré lenguetazos toda mi vida, no habrán más orbes que este para mi!	
+234	Héroe	235	Ermitaño, ese orbe ya no tiene ni una pizca de…	
+235	Ermitaño	236	¿Me esperan? iré a tirar estos otros orbes	
+236	Héroe	237	/emote:Enojado//speed:up/¡Pero están en perfecto estad-!	
+237	Ermitaño	238	Exacto, en pésimo estado. /color:#2fd91b/Ya no hacen buenos orbes, no son como los de antes. 	
+238	Ermitaño	239	Antes les dabas lenguetazos sin parar, ahora se ponen secos...	
+239	Eoger	240	Vámonos, esto es patético	
+240	Héroe	241	Ermitaño, quizá no me incumba, pero deberías aprovechar más los orbes que tienen energía en vez de los orbes echados a perder	
+241	Ermitaño		Exactamente, qué bueno que pensemos lo mismo. Por eso tiraré todos los orbes nuevos y me quedaré con este	
+242		243		
+243		244		
+244		245		
+245		246		
+246		247		
+247		248		
+248		249		
+249		250		
+250				

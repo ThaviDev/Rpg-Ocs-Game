@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Battle/BattleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Overworld/OverWorldScene.unity
+    guid: a97900f2a20e8b042ba1e97cd8e27679
+  - enabled: 1
+    path: Assets/Scenes/Overworld/OW Scenes/Lobby.unity
+    guid: 80bc66b30525df042bce96bf1338e174
+  - enabled: 1
+    path: Assets/Scenes/Overworld/OW Scenes/Prados.unity
+    guid: d715467154072f4488d9676742617a56
   m_configObjects: {}

@@ -93,12 +93,14 @@ public class MyDialogueManager : MonoBehaviour
         public Dialogue(string row, int language, System.Action callback = null, bool isSkippable = true)
         {
             string[] columns = row.Split('\t');
-            Debug.Log(language);
+            //Debug.Log(language);
             var dialogue = columns[language - 1];
             string character = columns[1] != string.Empty ? columns[1] : CHARACTER_DEFAULT;
 
             if (int.TryParse(columns[2], out int result))
+            {
                 next = result;
+            }
             else
                 next = null;
 

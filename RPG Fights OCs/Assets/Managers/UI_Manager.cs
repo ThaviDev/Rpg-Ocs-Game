@@ -7,9 +7,8 @@ public class UI_Manager : MonoBehaviour
 {
     public ScBtl_Motor battleMotor;
     [SerializeField] RectTransform sel_Abilities; // Transform of Sel_Abil
-    public RectTransform[] pos_SelAbilities; // Posiciones donde SelAbilities se moveria
     //private Battle_Manager bm; // Battle Manager
-    public int bActor_bm; // Public - Determina la seleccion de habilidades
+    //public int bActor_bm; // Public - Determina la seleccion de habilidades
     public int bActorSel_bm; // Public - Determina la seleccion de enemigo cuando se requiere
     public Slider[] hpActor_bm; // Public - Slider de la vida de los actores
     public Button[] b_SelActor; // Public - Boton para seleccionar un actor
@@ -18,10 +17,13 @@ public class UI_Manager : MonoBehaviour
     private bool canAim;
 
     // Variables publicas
+
+    public RectTransform[] pos_SelAbilities; // Posiciones donde SelAbilities se moveria
     public int butSelAbil = 0; // Public - Determina la seleccion de habilidades
     public int selectedActor = 0; // Actor siendo seleccionado
     public int possibleAimedActor; // Posible personaje seleccionado en la parte de apuntar a un personaje en la interfaz
     public int aimedActor; // Personaje seleccionado en la parte de apuntar a un personaje en la interfaz
+    public bool charCanAct; // Determina si el personaje seleccionado puede actuar o no
 
     void Start()
     {
@@ -34,31 +36,39 @@ public class UI_Manager : MonoBehaviour
         sel_Abilities.position = new Vector3(15f, 0f, 0f); // Pos for Empty
         //bm = FindObjectOfType<Battle_Manager>();
         possibleAimedActor = -1;
-        bActor_bm = -1;
+        //bActor_bm = -1;
         butSelAbil = -1;
         aimedActor = -1;
+        //canAim = false;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.R)){ selectedActor = 0; }
+        if (Input.GetKeyDown(KeyCode.T)){ selectedActor = 1; }
+        if (Input.GetKeyDown(KeyCode.Y)){ selectedActor = 2; }
+        if (Input.GetKeyDown(KeyCode.U)){ selectedActor = -1; }
+
+
+        //battleMotor.MoveCamaraOnTarget();
         // Datos para Battle Motor
+        /*
         battleMotor.m_ui_butSelAbil = butSelAbil;
         selectedActor = battleMotor.m_bm_actorsSel;
         battleMotor.m_ui_aimedActor = aimedActor;
         possibleAimedActor = battleMotor.m_bm_possibleAimedActor;
-
-        if (selectedActor >= 0)
+        */
+        /*
+        if (battleMotor.m_bm_RestartValues1 == true)
         {
-            // Mover la posición de la seleccion de habilidades al numero del actor siendo seleccionado
-            sel_Abilities.position = pos_SelAbilities[selectedActor].position;
-            print("Seleccion de habilidades va al actor seleccionado");
-        } else
-        {
-            // Pos for Empty
-            sel_Abilities.position = new Vector3(15f, 0f, 0f);
-            print("Seleccion de habilidades no existe");
+            print("Estoy en Restart Values de UI Manager");
+            butSelAbil = -1;
+            aimedActor = -1;
         }
+        */
+        // Mover el seleccionador de habilidades al personaje o al vacío
+
         /*
         if (bm.selAbilCharPosition_uiMan_gm == 0){
             sel_Abilities.position = pos_SelAbilities[0].position;
@@ -76,30 +86,8 @@ public class UI_Manager : MonoBehaviour
             sel_Abilities.position = new Vector3(15f, 0f, 0f); // Pos for Empty
         }
         */
-        if (canAim == true)
-        {
-            if (possibleAimedActor == 0)
-            {
-                for (int i = 0; i < 3; i++)
-                {
-                    b_SelActor[i].gameObject.transform.position = pos_SelActor[i].position;
-                }
-            }
-            else if (possibleAimedActor == 1)
-            {
-                for (int i = 0; i < 3; i++)
-                {
-                    b_SelActor[i].gameObject.transform.position = pos_SelActor[i + 3].position;
-                }
-            }
-            else
-            {
-                for (int i = 0; i < 3; i++)
-                {
-                    b_SelActor[i].gameObject.transform.position = new Vector3(15f, 0f, 0f);
-                }
-            }
-        }
+
+
         /*
         - Volver a checar la habilidad de hacer algo cuando el mouse esta encima de un boton
         - Botones para las habilidades
@@ -113,35 +101,76 @@ public class UI_Manager : MonoBehaviour
         */
     }
 
+    public void UpdateUI_Elements() {
+        // Si el actor seleccionado esta disponible
+        if (selectedActor >= 0 && charCanAct == true)
+        {
+            // Mover la posición de la seleccion de habilidades al numero del actor siendo seleccionado
+            sel_Abilities.position = pos_SelAbilities[selectedActor].position;
+        }
+        else
+        {
+            // Mover la posicion a un lugar "inexistente"
+            sel_Abilities.position = new Vector3(15f, 0f, 0f);
+        }
+
+        // Si posible punteria es 0 entonces apunto a los aliados y no esta actuando
+        if (possibleAimedActor == 0 && charCanAct == false)
+        {
+            // UI: Apunto a los aliados
+            for (int i = 0; i < 3; i++)
+            {
+                b_SelActor[i].gameObject.transform.position = pos_SelActor[i].position;
+            }
+        }
+        // Si posible punteria es 1 entonces apunto a los enemigos y no esta actuando
+        else if (possibleAimedActor == 1 && charCanAct == false)
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                b_SelActor[i].gameObject.transform.position = pos_SelActor[i + 3].position;
+            }
+        }
+        // Si ninguna de las anteriores condiciones son verdaderas entonces no apunto a ningun lado
+        else
+        {
+            // UI: Apunto a ningun lado
+            for (int i = 0; i < 3; i++)
+            {
+                b_SelActor[i].gameObject.transform.position = new Vector3(15f, 0f, 0f);
+            }
+        }
+    }
+
     public void ButtonSelection1(){
         // Se presiono el boton 1
         butSelAbil = 0;
-        canAim = true;
+        battleMotor.AbilInput(butSelAbil);
     }
     public void ButtonSelection2(){
         // Se presiono el boton 2
         butSelAbil = 1;
-        canAim = true;
+        battleMotor.AbilInput(butSelAbil);
     }
     public void ButtonSelection3(){
         // Se presiono el boton 3
         butSelAbil = 2;
-        canAim = true;
+        battleMotor.AbilInput(butSelAbil);
     }
 
     public void ButtonActor1(){
         // Se presiono el boton 1
         aimedActor = 0;
-        canAim = false;
+        battleMotor.AimInput(aimedActor);
     }
     public void ButtonActor2(){
         // Se presiono el boton 2
         aimedActor = 1;
-        canAim = false;
+        battleMotor.AimInput(aimedActor);
     }
     public void ButtonActor3(){
         // Se presiono el boton 3
         aimedActor = 2;
-        canAim = false;
+        battleMotor.AimInput(aimedActor);
     }
 }

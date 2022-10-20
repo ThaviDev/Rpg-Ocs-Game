@@ -9,6 +9,7 @@ public class PlayerMotor_OW : MonoBehaviour
     private float axisX;// El valor X del jugador
     private float axisY;// El valor Y del jugador
     private Animator anim;
+    private SpriteRenderer sprite;
     private Collider2D myCol;
     void Start()
     {
@@ -16,6 +17,8 @@ public class PlayerMotor_OW : MonoBehaviour
         target = transform.position;
         // Encontrar el animador en el hijo
         anim = this.transform.Find("Ow Player Visual").gameObject.GetComponent<Animator>();
+        // Encontrar el sprite del hijo
+        sprite = this.transform.Find("Ow Player Visual").gameObject.GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -42,9 +45,17 @@ public class PlayerMotor_OW : MonoBehaviour
             movementSpeedIG * Time.deltaTime );
 
         if (Mathf.Abs(axisX) > 0.1 || Mathf.Abs(axisY) > 0.1){
-            anim.SetBool("isMoving",true);
+            anim.SetBool("IsMoving",true);
         } else {
-            anim.SetBool("isMoving",false);
+            anim.SetBool("IsMoving",false);
+        }
+
+        if (axisX < 0)
+        {
+            sprite.flipX = true;
+        } else if (axisX > 0)
+        {
+            sprite.flipX = false;
         }
 
     }

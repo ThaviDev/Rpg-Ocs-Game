@@ -13,7 +13,7 @@ public class CameraManager_OW : MonoBehaviour
     void Update()
     {
         Vector3 newPosition = target.position;
-        //newPosition.x = target.position.x - 10;
+        newPosition.y = target.position.y + 0.8f;
         newPosition.z = -10;
         transform.position = Vector3.Slerp(transform.position, newPosition, speedFollow * Time.deltaTime);
         //print(newPosition);

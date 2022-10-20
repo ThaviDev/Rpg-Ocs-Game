@@ -13,7 +13,7 @@ public class ActorScOb : ScriptableObject
     0 - Primera Habilidad , 1 - Segunda Habilidad, 2 - Tercera Habilidad
     3 - Puntos de Vida, 4 - Puntos de Daño
     */
-    
+    /*
     public int[] ability1;
     public int[] ability2;
     public int[] ability3;
@@ -26,32 +26,32 @@ public class ActorScOb : ScriptableObject
     public int desaccelSpeedModif;
     public int precisionModif;
     public int critModif;
+    */
 
     public int[] actorsData = new int[9];
     // Actors data
     /*
-     * 0 - max Health
-     * 1 - starting Health
-     * 2 - starting Speed
-     * 3 - damage modifier
-     * 4 - healing modifier
-     * 5 - acceleration speed modifier
-     * 6 - desaceleration speed modifier
-     * 7 - precision modifier
-     * 8 - random critical modifier
+     * 0 - vida Maxima
+     * 1 - vida Inicial
+     * 2 - velocidad Inicial
+     * 3 - modif de Danio (Resistencia al danio)
+     * 4 - modif de Curacion
+     * 5 - modif de aceleracion (aumento de velocidad)
+     * 6 - modif de desaceleracion (desenzo de velocidad)
      */
     // Abils data
     /*
      * 0 - turnos de la habilidad
-     * 1 - precision
-     * 2 - criticos aleatorios
-     * 3 - es apuntable
-     * 4 - hay confrontación
-     * 5 - cantidad de cooldown
+     * 1 - posible punteria
+     * 2 - hay confrontación
+     * 3 - cantidad de cooldown
      */
     // Actions data
     /*
-     * 0 - clasificacion de la accion
+     * 0 - clasificacion de la accion 
+     * (Vida, Velocidad, ModifDanio, ModifCuracion
+     * AcelVelocidad, DesacVelocidad, ModifPrecision
+     * ModifRandomCritical, MaximaVida)
      * 1 - tipo de aplicacion
      * 2 - cantidad que se aplicara
      * 3 - turno para aplicar

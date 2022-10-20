@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 7d06e7284314fa144aab1b1ca252c6ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6091498844680945161
+    second: "Andras Liberaci\xF3n-Sheet_0"
+  - first:
+      213: 5436225577786608890
+    second: "Andras Liberaci\xF3n-Sheet_1"
+  - first:
+      213: 8322786744440344513
+    second: "Andras Liberaci\xF3n-Sheet_2"
+  - first:
+      213: 661230417769559152
+    second: "Andras Liberaci\xF3n-Sheet_3"
+  - first:
+      213: -2372866598119294387
+    second: "Andras Liberaci\xF3n-Sheet_4"
+  - first:
+      213: 6363859168945278342
+    second: "Andras Liberaci\xF3n-Sheet_5"
+  - first:
+      213: -7734884811260249119
+    second: "Andras Liberaci\xF3n-Sheet_6"
+  - first:
+      213: -5613988699782903055
+    second: "Andras Liberaci\xF3n-Sheet_7"
+  - first:
+      213: 7848272071586473438
+    second: "Andras Liberaci\xF3n-Sheet_8"
+  - first:
+      213: -1229991777928468717
+    second: "Andras Liberaci\xF3n-Sheet_9"
+  - first:
+      213: -2977221800127140210
+    second: "Andras Liberaci\xF3n-Sheet_10"
+  - first:
+      213: 1094363765197996086
+    second: "Andras Liberaci\xF3n-Sheet_11"
+  - first:
+      213: 4792031236373859916
+    second: "Andras Liberaci\xF3n-Sheet_12"
+  - first:
+      213: 8781467901054202086
+    second: "Andras Liberaci\xF3n-Sheet_13"
+  - first:
+      213: 8674077640217841597
+    second: "Andras Liberaci\xF3n-Sheet_14"
+  - first:
+      213: -9189081394887355286
+    second: "Andras Liberaci\xF3n-Sheet_15"
+  - first:
+      213: -6627126355892101871
+    second: "Andras Liberaci\xF3n-Sheet_16"
+  - first:
+      213: -5357030744797858184
+    second: "Andras Liberaci\xF3n-Sheet_17"
+  - first:
+      213: -4909222542466050031
+    second: "Andras Liberaci\xF3n-Sheet_18"
+  - first:
+      213: 416061517354301642
+    second: "Andras Liberaci\xF3n-Sheet_19"
+  - first:
+      213: -2335289682268253619
+    second: "Andras Liberaci\xF3n-Sheet_20"
+  - first:
+      213: -1559848774317276373
+    second: "Andras Liberaci\xF3n-Sheet_21"
+  - first:
+      213: 5245087577646486895
+    second: "Andras Liberaci\xF3n-Sheet_22"
+  - first:
+      213: -6659580327327710668
+    second: "Andras Liberaci\xF3n-Sheet_23"
+  - first:
+      213: -8734047960898810894
+    second: "Andras Liberaci\xF3n-Sheet_24"
+  - first:
+      213: 2492877660957036965
+    second: "Andras Liberaci\xF3n-Sheet_25"
+  - first:
+      213: -8829611074761485186
+    second: "Andras Liberaci\xF3n-Sheet_26"
+  - first:
+      213: 2537278789538486076
+    second: "Andras Liberaci\xF3n-Sheet_27"
+  - first:
+      213: 2826667156551145280
+    second: "Andras Liberaci\xF3n-Sheet_28"
+  - first:
+      213: -4875372069438894458
+    second: "Andras Liberaci\xF3n-Sheet_29"
+  - first:
+      213: 658023010845991779
+    second: "Andras Liberaci\xF3n-Sheet_30"
+  - first:
+      213: -216500724311258540
+    second: "Andras Liberaci\xF3n-Sheet_31"
+  - first:
+      213: -7008612330904166144
+    second: "Andras Liberaci\xF3n-Sheet_32"
+  - first:
+      213: 8343149968327474782
+    second: "Andras Liberaci\xF3n-Sheet_33"
+  - first:
+      213: 7489031465278729412
+    second: "Andras Liberaci\xF3n-Sheet_34"
+  - first:
+      213: -5700427431507266302
+    second: "Andras Liberaci\xF3n-Sheet_35"
+  - first:
+      213: -3775019571208538260
+    second: "Andras Liberaci\xF3n-Sheet_36"
+  - first:
+      213: 8408051643366341822
+    second: "Andras Liberaci\xF3n-Sheet_37"
+  - first:
+      213: -394447697560545878
+    second: "Andras Liberaci\xF3n-Sheet_38"
+  - first:
+      213: -2224252817915042885
+    second: "Andras Liberaci\xF3n-Sheet_39"
+  - first:
+      213: 2646145805169862382
+    second: "Andras Liberaci\xF3n-Sheet_40"
+  - first:
+      213: 2136369408278803935
+    second: "Andras Liberaci\xF3n-Sheet_41"
+  - first:
+      213: -4498212029794798989
+    second: "Andras Liberaci\xF3n-Sheet_42"
+  - first:
+      213: 354622495394548612
+    second: "Andras Liberaci\xF3n-Sheet_43"
+  - first:
+      213: -1364428211878847722
+    second: "Andras Liberaci\xF3n-Sheet_44"
+  - first:
+      213: -1139257821041830382
+    second: "Andras Liberaci\xF3n-Sheet_45"
+  - first:
+      213: -8649962952816596782
+    second: "Andras Liberaci\xF3n-Sheet_46"
+  - first:
+      213: 1273476167435760042
+    second: "Andras Liberaci\xF3n-Sheet_47"
+  - first:
+      213: -1583769537305639206
+    second: "Andras Liberaci\xF3n-Sheet_48"
+  - first:
+      213: -4609872340823571553
+    second: "Andras Liberaci\xF3n-Sheet_49"
+  - first:
+      213: -5845484620612675791
+    second: "Andras Liberaci\xF3n-Sheet_50"
+  - first:
+      213: -2613608833839021562
+    second: "Andras Liberaci\xF3n-Sheet_51"
+  - first:
+      213: -7513800380527710249
+    second: "Andras Liberaci\xF3n-Sheet_52"
+  - first:
+      213: 5466381158062415500
+    second: "Andras Liberaci\xF3n-Sheet_53"
+  - first:
+      213: -1889103643434055485
+    second: "Andras Liberaci\xF3n-Sheet_54"
+  - first:
+      213: 2376959409921326245
+    second: "Andras Liberaci\xF3n-Sheet_55"
+  - first:
+      213: -1232079791757947490
+    second: "Andras Liberaci\xF3n-Sheet_56"
+  - first:
+      213: 963978162729295921
+    second: "Andras Liberaci\xF3n-Sheet_57"
+  - first:
+      213: -555721573182616583
+    second: "Andras Liberaci\xF3n-Sheet_58"
+  - first:
+      213: -3524454060214946887
+    second: "Andras Liberaci\xF3n-Sheet_59"
+  - first:
+      213: 8745498242283635964
+    second: "Andras Liberaci\xF3n-Sheet_60"
+  - first:
+      213: 3427166413804423484
+    second: "Andras Liberaci\xF3n-Sheet_61"
+  - first:
+      213: -2283629515297160962
+    second: "Andras Liberaci\xF3n-Sheet_62"
+  - first:
+      213: -7983760730944894215
+    second: "Andras Liberaci\xF3n-Sheet_63"
+  - first:
+      213: -6195070363226938943
+    second: "Andras Liberaci\xF3n-Sheet_64"
+  - first:
+      213: 4442078223522255453
+    second: "Andras Liberaci\xF3n-Sheet_65"
+  - first:
+      213: -5827341060639278369
+    second: "Andras Liberaci\xF3n-Sheet_66"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1071d2316a67ba0800000000000000
+      internalID: -6091498844680945161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0dd25c5a517b40800000000000000
+      internalID: 5436225577786608890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf42b3b27a708370800000000000000
+      internalID: 8322786744440344513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07476d5cf892d2900800000000000000
+      internalID: 661230417769559152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab5b7a662e11fd0800000000000000
+      internalID: -2372866598119294387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d889d6238f05850800000000000000
+      internalID: 6363859168945278342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebb44ece3b28a490800000000000000
+      internalID: -7734884811260249119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0260950b1712b0800000000000000
+      internalID: -5613988699782903055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 399
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e78ffdd9aaec60800000000000000
+      internalID: 7848272071586473438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3172ce7aef03eeee0800000000000000
+      internalID: -1229991777928468717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6fd9fb88cea6d0800000000000000
+      internalID: -2977221800127140210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308fa7db06ff2f00800000000000000
+      internalID: 1094363765197996086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec3ac2507b08240800000000000000
+      internalID: 4792031236373859916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b4d0a78a0ed970800000000000000
+      internalID: 8781467901054202086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfc75318a3806870800000000000000
+      internalID: 8674077640217841597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64969d3823d97080800000000000000
+      internalID: -9189081394887355286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1c6bf0b7b704a0800000000000000
+      internalID: -6627126355892101871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 342
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763a7d9be008a5b0800000000000000
+      internalID: -5357030744797858184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11898f89b10fedbb0800000000000000
+      internalID: -4909222542466050031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8fc92eeb526c500800000000000000
+      internalID: 416061517354301642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4214c82862679fd0800000000000000
+      internalID: -2335289682268253619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238d7fddcd4a5ae0800000000000000
+      internalID: -1559848774317276373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65de69bc5b4ac840800000000000000
+      internalID: 5245087577646486895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c37ce9fa6493a0800000000000000
+      internalID: -6659580327327710668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc66f87ad6ac680800000000000000
+      internalID: -8734047960898810894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1d9d9560b789220800000000000000
+      internalID: 2492877660957036965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 285
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749cff328be67580800000000000000
+      internalID: -8829611074761485186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c371392bd99363320800000000000000
+      internalID: 2537278789538486076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479e747dc65a3720800000000000000
+      internalID: 2826667156551145280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecb350fe2375cb0800000000000000
+      internalID: -4875372069438894458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_30"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36322872174c12900800000000000000
+      internalID: 658023010845991779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_31"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a00d10db5defcf0800000000000000
+      internalID: -216500724311258540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_32"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e800e7386cbe90800000000000000
+      internalID: -7008612330904166144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_33"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e78f931b2d8c370800000000000000
+      internalID: 8343149968327474782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_34"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc69a760726ee760800000000000000
+      internalID: 7489031465278729412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_35"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 228
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fd15047304e0b0800000000000000
+      internalID: -5700427431507266302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b7fd63bf6c9bc0800000000000000
+      internalID: -3775019571208538260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_37"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc7dfffb666fa470800000000000000
+      internalID: 8408051643366341822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5de60b8e3a68af0800000000000000
+      internalID: -394447697560545878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_39"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb32381c8ddd121e0800000000000000
+      internalID: -2224252817915042885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62a05079ff8b420800000000000000
+      internalID: 2646145805169862382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_41"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5387968a8e5ad10800000000000000
+      internalID: 2136369408278803935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37231bfcdf32391c0800000000000000
+      internalID: -4498212029794798989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_43"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bca5bd74fdbe400800000000000000
+      internalID: 354622495394548612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_44"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 171
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b907535c3901de0800000000000000
+      internalID: -1364428211878847722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216573d3c0b8030f0800000000000000
+      internalID: -1139257821041830382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_46"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e31d168825f780800000000000000
+      internalID: -8649962952816596782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_47"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13fedb3db4ca110800000000000000
+      internalID: 1273476167435760042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_48"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad600da3ff1550ae0800000000000000
+      internalID: -1583769537305639206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_49"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f930059b7817600c0800000000000000
+      internalID: -4609872340823571553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_50"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375f5055baa0eea0800000000000000
+      internalID: -5845484620612675791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_51"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c335fc989abbd0800000000000000
+      internalID: -2613608833839021562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_52"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df637d1d5e99b790800000000000000
+      internalID: -7513800380527710249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_53"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 114
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed23d73bc7cdb40800000000000000
+      internalID: 5466381158062415500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88735ce3e88c5e0800000000000000
+      internalID: -1889103643434055485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_55"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acf1e95df7acf020800000000000000
+      internalID: 2376959409921326245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_56"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d845d05f5c6eee0800000000000000
+      internalID: -1232079791757947490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_57"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a6b8180db06d00800000000000000
+      internalID: 963978162729295921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_58"
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbcd6c6c2ea948f0800000000000000
+      internalID: -555721573182616583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_59"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b374b1a4bf961fc0800000000000000
+      internalID: -3524454060214946887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_60"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf48e13d0504e5970800000000000000
+      internalID: 8745498242283635964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_61"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3946f802bdbf8f20800000000000000
+      internalID: 3427166413804423484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_62"
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 57
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef08d161e0bee40e0800000000000000
+      internalID: -2283629515297160962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_63"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa015c3aebf33190800000000000000
+      internalID: -7983760730944894215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_64"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ee49d350b60aa0800000000000000
+      internalID: -6195070363226938943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_65"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52da81fb9e65ad30800000000000000
+      internalID: 4442078223522255453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Andras Liberaci\xF3n-Sheet_66"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 57
+      alignment: 9
+      pivot: {x: 0.38, y: 0.035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3c8f0e20212fa0800000000000000
+      internalID: -5827341060639278369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
