@@ -67,7 +67,7 @@ public class UI_Manager : MonoBehaviour
             aimedActor = -1;
         }
         */
-        // Mover el seleccionador de habilidades al personaje o al vacío
+        // Mover el seleccionador de habilidades al personaje o al vacï¿½o
 
         /*
         if (bm.selAbilCharPosition_uiMan_gm == 0){
@@ -105,7 +105,7 @@ public class UI_Manager : MonoBehaviour
         // Si el actor seleccionado esta disponible
         if (selectedActor >= 0 && charCanAct == true)
         {
-            // Mover la posición de la seleccion de habilidades al numero del actor siendo seleccionado
+            // Mover la posiciï¿½n de la seleccion de habilidades al numero del actor siendo seleccionado
             sel_Abilities.position = pos_SelAbilities[selectedActor].position;
         }
         else
