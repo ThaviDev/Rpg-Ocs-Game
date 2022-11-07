@@ -28,7 +28,7 @@ public class ActorScOb : ScriptableObject
     public int critModif;
     */
 
-    public int[] actorsData = new int[9];
+    public int[] actorsData = new int[11];
     // Actors data
     /*
      * 0 - vida Maxima

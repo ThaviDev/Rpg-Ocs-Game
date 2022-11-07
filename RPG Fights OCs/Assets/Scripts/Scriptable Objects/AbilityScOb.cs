@@ -6,6 +6,7 @@ public class AbilityScOb : ScriptableObject
 {
     public int actorID;
     public int[] abilityData = new int[8]; // Las características de la habilidad Siendo ejecutada en el presente
+    public int actionAmount;
     /*
      * 0 - turnos de la habilidad
      * 1 - precision
@@ -14,9 +15,21 @@ public class AbilityScOb : ScriptableObject
      * 4 - hay confrontación (1 si, 0 no)
      * 5 - cantidad de cooldown (en turnos)
      * 6 - Objetivo Posible (0 al enemigo, 1 al aliado, 2 a uno mismo)
-     * 7 - Cantidad de acciones
      */
-    public int[] action1 = new int[4];
+    public int[] actionObjective = new int[1];
+    public int[] classification = new int[1];
+    public int[] applic_Type = new int[1];
+    public int[] quantity = new int[1];
+    public int[] applic_Turn = new int[1];
+    public int[] duration = new int[1];
+
+    public int conditionalSuccesionAmount;
+
+    public int[] conditionID = new int[1];
+    public int[] waitDuration = new int[1];
+    public int[] actionNumber = new int[1];
+
+    //public int[] action1 = new int[4];
     /*
      * 0 - clasificacion de la accion (Suma o resta 0, Multiplicacion o division 1)
      * 1 - tipo de aplicacion
@@ -40,8 +53,8 @@ public class AbilityScOb : ScriptableObject
      * 2 - cantidad que se aplicara
      * 3 - turno para aplicar (de la cantidad de turnos de la habilidad en cual de ellos se ejecuta la accion)
      */
-    public int[] action2 = new int[4];
-    public int[] action3 = new int[4];
+    //public int[] action2 = new int[4];
+    //public int[] action3 = new int[4];
 
 
 }

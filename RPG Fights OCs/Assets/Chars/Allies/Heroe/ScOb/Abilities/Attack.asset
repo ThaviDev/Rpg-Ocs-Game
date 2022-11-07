@@ -10,10 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90615c8eb670a7340873f6ccf5c0252f, type: 3}
-  m_Name: Defense
+  m_Name: Attack
   m_EditorClassIdentifier: 
   actorID: 101
-  abilityData: 0200000064000000000000000000000000000000010000000200000001000000
-  action1: 00000000030000005000000000000000
-  action2: 00000000000000000000000000000000
-  action3: 00000000000000000000000000000000
+  abilityData: 000000000100000001000000000000006400000064000000
+  actionAmount: 1
+  actionObjective: 03000000
+  classification: 00000000
+  applic_Type: 00000000
+  quantity: 14000000
+  applic_Turn: 00000000
+  duration: 00000000
+  conditionalSuccesionAmount: 0
+  conditionID: 00000000
+  waitDuration: 00000000
+  actionNumber: 00000000

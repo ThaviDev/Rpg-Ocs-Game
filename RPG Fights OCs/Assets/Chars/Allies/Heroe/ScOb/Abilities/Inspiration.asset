@@ -13,7 +13,15 @@ MonoBehaviour:
   m_Name: Inspiration
   m_EditorClassIdentifier: 
   actorID: 101
-  abilityData: 00000000640000000000000000000000000000000200000001000000
-  action1: 01000000000000009cffffff00000000
-  action2: 00000000000000000000000000000000
-  action3: 00000000000000000000000000000000
+  abilityData: 000000006400000000000000000000000000000002000000
+  actionAmount: 1
+  actionObjective: 00000000
+  classification: 
+  applic_Type: 
+  quantity: 
+  applic_Turn: 
+  duration: 
+  conditionalSuccesionAmount: 0
+  conditionID: 00000000
+  waitDuration: 00000000
+  actionNumber: 00000000
