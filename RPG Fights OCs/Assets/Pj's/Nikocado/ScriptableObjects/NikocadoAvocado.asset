@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6fff5f6a10b36f4687ef4a90d3d962f, type: 3}
+  m_Name: NikocadoAvocado
+  m_EditorClassIdentifier: 
+  anim: {fileID: 0}
+  actorName: Nikocado Avocado
+  ability1: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  ability2: 
+  ability3: 
+  maxHealth: 0
+  startingSpeed: 0

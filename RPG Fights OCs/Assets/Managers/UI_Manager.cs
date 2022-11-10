@@ -67,7 +67,7 @@ public class UI_Manager : MonoBehaviour
             aimedActor = -1;
         }
         */
-        // Mover el seleccionador de habilidades al personaje o al vacío
+        // Mover el seleccionador de habilidades al personaje o al vacï¿½o
 
         /*
         if (bm.selAbilCharPosition_uiMan_gm == 0){

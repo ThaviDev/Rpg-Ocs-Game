@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Game_Manager : MonoBehaviour
 {
-    
+    int lol;
+
     void Start()
     {
         
