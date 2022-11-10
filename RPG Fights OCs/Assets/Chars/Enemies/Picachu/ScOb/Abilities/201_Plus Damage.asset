@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90615c8eb670a7340873f6ccf5c0252f, type: 3}
-  m_Name: Attack
+  m_Name: 201_Plus Damage
   m_EditorClassIdentifier: 
-  actorID: 0
-  abilityData: 00000000000000000000000000000000000000000000000000000000
-  actionAmount: 0
-  actionObjective: 00000000
+  actorID: 201
+  abilitySelectionSlot: 0
+  abilityData: 000000000100000000000000000000009600000032000000
+  actionAmount: 1
+  actionObjective: 01000000
   classification: 00000000
   applic_Type: 00000000
   quantity: 00000000
@@ -25,6 +26,3 @@ MonoBehaviour:
   conditionID: 00000000
   waitDuration: 00000000
   actionNumber: 00000000
-  action1: 00000000000000000000000000000000
-  action2: 00000000000000000000000000000000
-  action3: 00000000000000000000000000000000

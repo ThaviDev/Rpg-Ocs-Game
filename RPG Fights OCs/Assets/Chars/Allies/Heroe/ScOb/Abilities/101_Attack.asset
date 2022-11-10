@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90615c8eb670a7340873f6ccf5c0252f, type: 3}
-  m_Name: Attack
+  m_Name: 101_Attack
   m_EditorClassIdentifier: 
   actorID: 101
-  abilityData: 000000000100000001000000000000006400000064000000
+  abilitySelectionSlot: 0
+  abilityData: 000000000400000001000000000000006400000032000000
   actionAmount: 1
-  actionObjective: 03000000
+  actionObjective: 04000000
   classification: 00000000
   applic_Type: 00000000
   quantity: 14000000

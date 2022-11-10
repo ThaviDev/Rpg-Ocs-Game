@@ -17,18 +17,20 @@ public class ActionMotor : MonoBehaviour
     void Start()
     {
         fatherActor = this.transform.parent.gameObject.GetComponent<ActorMotor>();
-        print(fatherActor);
-        ActionSuccesion();
+        //print(fatherActor);
+        //ActionSuccesion();
     }
 
     void Update()
     {
+        print("Hola, soy accion");
         // Cuando deje de actuar activar OneHitSwitch
         if (actorIsActing == false)
             canActivate = true;
         if (actorIsActing == true && canActivate == true)
         {
-            ActionSuccesion();
+            //Activarlo cuando empecemos a utilizar acciones
+            //ActionSuccesion();
         }
     }
 

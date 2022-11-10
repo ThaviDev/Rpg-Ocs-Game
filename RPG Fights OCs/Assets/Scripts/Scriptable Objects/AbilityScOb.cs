@@ -4,9 +4,10 @@ using UnityEngine;
 [CreateAssetMenu]
 public class AbilityScOb : ScriptableObject
 {
-    public int actorID;
+    public int actorID; // Para identificar a cual actor perteneces
+    public int abilitySelectionSlot; // en cual de los 3 espacios de seleccion de habilidad va esta habilidad
     public int[] abilityData = new int[8]; // Las características de la habilidad Siendo ejecutada en el presente
-    public int actionAmount;
+    public int actionAmount; // La cantidad de acciones que va a tener esta habilidad
     /*
      * 0 - turnos de la habilidad
      * 1 - precision

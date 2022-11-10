@@ -7,6 +7,7 @@ public class ActorMotor : MonoBehaviour
     public ActorScOb actorScOb; // Scriptable Object con los datos estáticos
     public int[] actorsData; // Datos del Actor
     public int[,] abilitiesData; // Datos de las habilidades
+    // Primer dato es el numero de la habilidad / El segundo es el dato
     // Lista para los estados
     List<int> States = new List<int>();
 
@@ -15,12 +16,9 @@ public class ActorMotor : MonoBehaviour
 
     public GameObject action;
 
-    public ActionMotor myAction; // Accion siendo seleccionada y preparada para ser enviada 
-    public int actionDta;
+    public ActionMotor myAction; // SCOB de la acción, todas las acciones son iguales, se declara diferencias en el codigo
     void Start()
     {
-        actionDta = 5;
-
         // Declarar datos de actores
         actorsData = new int[14];
         // Declarar datos de habilidades
@@ -36,6 +34,7 @@ public class ActorMotor : MonoBehaviour
         print(actionDatatest);
         */
     }
+    /*
     bool canStartAbility = false;
     // Esta funcion es llamada por Battle Manager, y activa todo lo necesario para que funcione una habilidad
     public void EjecuteAbility()
@@ -52,6 +51,8 @@ public class ActorMotor : MonoBehaviour
                 this.gameObject.transform.GetChild(i).GetComponent<ActionMotor>().actorIsActing = true;
             }
             StartCoroutine("animEjecution");
+            StartCoroutine("animEjecution");
+            StartCoroutine("animEjecution");
         }
         // Animar al personaje ejecutando la habilidad, (Tambien hay que hacer la logica de la confrontacion)
         // Esperar el tiempo necesario para spawnear las acciones
@@ -64,11 +65,25 @@ public class ActorMotor : MonoBehaviour
 
     IEnumerator animEjecution()
     {
-        yield return new WaitForSeconds((actorScOb.abilities[actorsData[1]].abilityData[4] / 100));
+        yield return new WaitForSeconds((actorScOb.abilities[actorsData[1]].abilityData[4] / 100) + 2);
         print("PAAAM");
+        // Determinar en donde va a spawnear la acción
+
+
         // Spawnear Acciones
         for (int i = 0; i < actorScOb.abilities[actorsData[1]].actionAmount; i++)
         {
+            // Checar si alguna de estas acciones se spawnea mas de una vez, viendo el objetivo de la acción
+            switch (actorScOb.abilities[actorsData[1]].actionObjective[i])
+            {
+                case 0:
+
+                    break;
+                case 1:
+
+                    break;
+
+            }
             Instantiate(action); // Instanciar la acción como objeto
             myAction = FindObjectOfType<ActionMotor>(); // Encontrarla y guardarla
             myAction.actionData = new int[5]; // clasificar un array con 5 elementos
@@ -94,14 +109,14 @@ public class ActorMotor : MonoBehaviour
             }
             */
             //myAction.transform.SetParent(actorsMotor[i].gameObject.transform);
-
+            /*
         }
-        yield return new WaitForSeconds((actorScOb.abilities[actorsData[1]].abilityData[5] / 100));
+        yield return new WaitForSeconds((actorScOb.abilities[actorsData[1]].abilityData[5] / 100) + 2);
         // Terminar de ejecutar
         print("Ok, termine");
         actorIsActing=false;
     }
-
+    */
     void InsertValuesScOb()
     {
         // No tiene ninguna habilidad seleccionada

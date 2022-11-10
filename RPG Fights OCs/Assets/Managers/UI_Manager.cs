@@ -106,7 +106,7 @@ public class UI_Manager : MonoBehaviour
         if (selectedActor >= 0 && charCanAct == true)
         {
             // Mover la posición de la seleccion de habilidades al numero del actor siendo seleccionado
-            sel_Abilities.position = pos_SelAbilities[selectedActor].position;
+            //sel_Abilities.position = pos_SelAbilities[selectedActor].position;
         }
         else
         {
