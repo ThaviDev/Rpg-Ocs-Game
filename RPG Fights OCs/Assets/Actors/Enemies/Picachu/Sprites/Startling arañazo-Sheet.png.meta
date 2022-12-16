@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 69162d979c2dc894686ba8f343f1d2dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3253784444098630347
+    second: "Startling ara\xF1azo-Sheet_0"
+  - first:
+      213: -5578412531790269440
+    second: "Startling ara\xF1azo-Sheet_1"
+  - first:
+      213: 3681685888383629764
+    second: "Startling ara\xF1azo-Sheet_2"
+  - first:
+      213: -8644015449235856392
+    second: "Startling ara\xF1azo-Sheet_3"
+  - first:
+      213: -998094113929529457
+    second: "Startling ara\xF1azo-Sheet_4"
+  - first:
+      213: -5642321555575462134
+    second: "Startling ara\xF1azo-Sheet_5"
+  - first:
+      213: -7308761653647283097
+    second: "Startling ara\xF1azo-Sheet_6"
+  - first:
+      213: -5383902649456759482
+    second: "Startling ara\xF1azo-Sheet_7"
+  - first:
+      213: 3338171683967323114
+    second: "Startling ara\xF1azo-Sheet_8"
+  - first:
+      213: -1605346050533770010
+    second: "Startling ara\xF1azo-Sheet_9"
+  - first:
+      213: -1190674938481811919
+    second: "Startling ara\xF1azo-Sheet_10"
+  - first:
+      213: -1602054697545137227
+    second: "Startling ara\xF1azo-Sheet_11"
+  - first:
+      213: -2930512491213010621
+    second: "Startling ara\xF1azo-Sheet_12"
+  - first:
+      213: 4048251868911103365
+    second: "Startling ara\xF1azo-Sheet_13"
+  - first:
+      213: -9101126521143379593
+    second: "Startling ara\xF1azo-Sheet_14"
+  - first:
+      213: -4635854507192339240
+    second: "Startling ara\xF1azo-Sheet_15"
+  - first:
+      213: -6324574029563715082
+    second: "Startling ara\xF1azo-Sheet_16"
+  - first:
+      213: 3180605854755240663
+    second: "Startling ara\xF1azo-Sheet_17"
+  - first:
+      213: -1818025363900225859
+    second: "Startling ara\xF1azo-Sheet_18"
+  - first:
+      213: -5957131473984976033
+    second: "Startling ara\xF1azo-Sheet_19"
+  - first:
+      213: 4416265195032048090
+    second: "Startling ara\xF1azo-Sheet_20"
+  - first:
+      213: -1481577724146583094
+    second: "Startling ara\xF1azo-Sheet_21"
+  - first:
+      213: -5427489437532521781
+    second: "Startling ara\xF1azo-Sheet_22"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18.75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d03e66b3c72d20800000000000000
+      internalID: 3253784444098630347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 176
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bd08ab5f7592b0800000000000000
+      internalID: -5578412531790269440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 176
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9bcaf1fc9f71330800000000000000
+      internalID: 3681685888383629764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 176
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ee433fb94a0880800000000000000
+      internalID: -8644015449235856392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 176
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8772d601be0622f0800000000000000
+      internalID: -998094113929529457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a072563807272b1b0800000000000000
+      internalID: -5642321555575462134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6b5edfff029a90800000000000000
+      internalID: -7308761653647283097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 132
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d68d1c0198845b0800000000000000
+      internalID: -5383902649456759482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 132
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc32ec571935e20800000000000000
+      internalID: 3338171683967323114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbb54c54aa8b9e0800000000000000
+      internalID: -1605346050533770010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed4d0b37fd97fe0800000000000000
+      internalID: -1190674938481811919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3831a9dbb54c9e0800000000000000
+      internalID: -1602054697545137227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 88
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349476f6a6ab457d0800000000000000
+      internalID: -2930512491213010621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 88
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de1cf40a74e2830800000000000000
+      internalID: 4048251868911103365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 88
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bc5b16ad42b180800000000000000
+      internalID: -9101126521143379593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4386433e22aafb0800000000000000
+      internalID: -4635854507192339240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 44
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1a13cdd699a38a0800000000000000
+      internalID: -6324574029563715082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab63f5c28c32c20800000000000000
+      internalID: 3180605854755240663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 44
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a318509315c6e0800000000000000
+      internalID: -1818025363900225859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b83d49c74045da0800000000000000
+      internalID: -5957131473984976033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17ec7ebc9b94d30800000000000000
+      internalID: 4416265195032048090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac97c1dd8e0607be0800000000000000
+      internalID: -1481577724146583094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Startling ara\xF1azo-Sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 83
+        height: 44
+      alignment: 9
+      pivot: {x: 0.2289157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca70b5dc1fada4b0800000000000000
+      internalID: -5427489437532521781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

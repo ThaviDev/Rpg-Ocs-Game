@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6fff5f6a10b36f4687ef4a90d3d962f, type: 3}
+  m_Name: Act_Heroe
+  m_EditorClassIdentifier: 
+  animControl: {fileID: 9100000, guid: 8ced95af848346d46a91a71e3f480362, type: 2}
+  actorID: 101
+  isEnemy: 0
+  actorsData:
+  - 100
+  - 75
+  - 1
+  - 1
+  - 1
+  - 5
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  abilities:
+  - {fileID: 11400000, guid: 3fc8dd57089b74740940a0c32b726715, type: 2}
+  - {fileID: 11400000, guid: 18700b6dd0703f445a5ac629efcd0f90, type: 2}
+  - {fileID: 11400000, guid: 537f9fed4845bb34f8dfbb191273cd8d, type: 2}
