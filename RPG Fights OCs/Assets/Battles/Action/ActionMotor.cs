@@ -91,12 +91,14 @@ public class ActionMotor : MonoBehaviour
     void ActionAplicationAddition()
     {
         // POR AHORA TODO SOLO FUNCIONA EN SUMAS, NO EN MULTIPLICACIONES
+        // actionData[2] es la cantidad de la accion
         switch (actionData[0])
         {
             case 0:
                 // ATAQUE: Le quita la vida al personaje, se multiplica por el daño del actor original y por la resistencia del personaje
                 // daño del actor original : actionData[5]
-                fatherActor.actorsData[3] += ((actionData[2] * actionData[5]) / fatherActor.actorsData[5]);
+                // Vic-Vida Presente += (Atc-Cantidad * Atc-Valor de Danio) / Vic-resistencia presente
+                fatherActor.actorsData[3] += (actionData[2] * actionData[5]) / fatherActor.actorsData[5];
                 break;
             case 1:
                 // CURACIÓN: Le aumenta la vida al personaje, se multiplica por la curación del personaje

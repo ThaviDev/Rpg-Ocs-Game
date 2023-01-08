@@ -61,6 +61,6 @@ public class PlayerMotor_OW : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D col){
-        target = transform.position;
+        //target = transform.position;
     }
 }

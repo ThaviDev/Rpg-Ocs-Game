@@ -19,7 +19,7 @@ public class Acting_Manager : MonoBehaviour
     void Acting(int actNum)
     {
         print("Estoy acuando mama, mirame soy: " + actNum);
-        player.transform.position = Vector3.MoveTowards(transform.position, Vector3.up, 1 * Time.deltaTime);
+       // player.transform.position = Vector3.MoveTowards(transform.position, Vector3.up, 1 * Time.deltaTime);
     }
 
     public void StartActing(int id) {

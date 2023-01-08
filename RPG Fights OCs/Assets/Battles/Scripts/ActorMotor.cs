@@ -145,6 +145,7 @@ public class ActorMotor : MonoBehaviour
     void InsertValuesScOb()
     {
         visualGM.GetComponent<Animator>().runtimeAnimatorController = actorScOb.animControl;
+        /*
         // No tiene ninguna habilidad seleccionada
         actorsData[1] = 0;
         // Vida Máxima Presente = Vida Máxima Inicial
@@ -163,6 +164,40 @@ public class ActorMotor : MonoBehaviour
         actorsData[8] = actorScOb.actorsData[6];
         // Multi Desaceleracion = Multi Inicial Desaceleracion
         actorsData[9] = actorScOb.actorsData[7];
+        */
+
+        // No tiene ninguna habilidad seleccionada
+        actorsData[1] = 0;
+
+        /*
+        // Vida Máxima Presente = Vida Máxima Inicial
+        actorsData[2] = actorScOb.actorsData[0];
+        // Vida Presente = Vida Inicial
+        actorsData[3] = actorScOb.actorsData[1];
+        // Danio Presente = Danio Inicial
+        actorsData[4] = actorScOb.actorsData[2];
+        // Resistencia Presente = Resistencia Inicial
+        actorsData[5] = actorScOb.actorsData[3];
+        // Curacion Presente = Curacion Inicial
+        actorsData[6] = actorScOb.actorsData[4];
+        // Velocidad Presente = Velocidad Inicial
+        actorsData[7] = actorScOb.actorsData[5];
+        // Multi de Danio = Multi Inicial de danio
+        actorsData[8] = actorScOb.actorsData[6];
+        // Multi de Resistencia = Multi Inicial resistencia
+        actorsData[9] = actorScOb.actorsData[7];
+        // Multi Curacion = Multi Inicial Curacion
+        actorsData[10] = actorScOb.actorsData[8];
+        // Multi Aceleracion = Multi Inicial Aceleracion
+        actorsData[11] = actorScOb.actorsData[9];
+        // Multi Desaceleracion = Multi Inicial Desaceleracion
+        actorsData[12] = actorScOb.actorsData[10];
+        */
+        // PARA SIMPLIFICAR LO DE ARRIBA
+        for (int i = 0; i < 10; i++)
+        {
+            actorsData[i + 2] = actorScOb.actorsData[i];
+        }
 
         // Para todas las habilidades
         for (int i = 0; i < 3; i++)
