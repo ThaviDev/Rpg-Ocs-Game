@@ -338,15 +338,6 @@ public class BattleManager : MonoBehaviour
 
     void SpeedDetector()
     {
-        // ESTOS NUMEROS SON DE PRUEBA
-        /*
-        charsVelocity[1,0] = 4;// Actor 1
-        charsVelocity[1,1] = 7;// Actor 2
-        charsVelocity[1,2] = 3;// Actor 3
-        enemsVelocity[1,0] = 1;// Actor 4
-        enemsVelocity[1,1] = 2;// Actor 5
-        enemsVelocity[1,2] = 9;// Actor 6
-        */
         /*
         actorsMotor[0].actorsData[7] = 5;
         actorsMotor[1].actorsData[7] = 5;
@@ -459,8 +450,11 @@ public class BattleManager : MonoBehaviour
             {
                 // Reiniciar valores de UI
                 sceneBtl_Motor.UpdateUI_Data();
+                // Reiniciar el actor actual y la sucesión de batalla
                 currentActor = 0;
                 battleSuccesion = 0;
+                // Checar si se logro la victoria o la derrota
+                BattleEndCheck();
                 //print("Se acabaron las acciones, hora de seleccionar de nuevo");
             }
         }
@@ -582,6 +576,13 @@ public class BattleManager : MonoBehaviour
         currentActor++;
 
     }
+
+    /* CREO QUE SERÍA BUENA IDEA UTILIZAR EL ANIMADOR PARA PODER INSTANCIAR LAS ACCIONES, ASÍ SE PUEDE SER EXACTAMENTE PRECISO EN EL 
+     * INSTANTE EN EL QUE SE DEBERÍA DE INSTANCIAR, SE PUEDE EJECUTAR UN CÓDIGO O ALGUN TIPO DE TRIGGER EN EL ANIMATOR
+     * 
+     * ENTONCES QUIZÁ SEA BUENA IDEA EL LLAMAR AL ANIMADOR CON EL animEjecution() Y MANDARLE LA INFORMACIÓN A UNA FUNCION DE AQUÍ MISMO CUANDO SEA EJECUTADA
+     * ASÍ NO SERÍA OTRA CORRUTINA QUE PUEDA LLEGAR A MOLESTAR CON LOS TIEMPOS DE LA PRIMER CORRUTINA
+    */
     IEnumerator InstantiateAnAction(int spawnPos, int actionID)
     {
         sceneBtl_Motor.UpdateUI_Data();
@@ -610,5 +611,48 @@ public class BattleManager : MonoBehaviour
         myAction.transform.SetParent(actorsMotor[spawnPos].gameObject.transform);
         yield return new WaitForSeconds((actorsMotor[currentActingActor].actorScOb.abilities[(int)actorsMotor[currentActingActor].actorsData[1]].abilityData[5] / 100));
         //print("Ok, termine");
+    }
+
+    void BattleEndCheck()
+    {
+        /*
+         * 1 Buscar todos los aliados y ver si todos estan muertos (Si es verdad es derrota)
+         * 2 Buscar todos los enemigos y ver si todos estan muertos (Si es verdad es victoria)
+         * 3 Si ninguno de los anteriores es verdad entonces no hacer nada
+         * */
+        bool isDefeat = true;
+        bool isVictory = true;
+        // Buscar la vida de todos los aliados
+        for (int i = 0; i < quantityOfAllies; i++)
+        {
+            // Si la vida de algun aliado es mayor a 0
+            if (actorsMotor[i].actorsData[3] > 0)
+                // No pierdes
+                isDefeat = false;
+        }
+        // Si hay derrota
+        if (isDefeat == true)
+        {
+            // Se comunica con Scene Battle Motor para avisarle
+            sceneBtl_Motor.CheckEndBattle(isDefeat);
+            // Terminar de leer el código
+            return;
+        }
+        // Buscar la vida de todos los enemigos
+        for (int i = 0; i < quantityOfEnemies; i++)
+        {
+            // Si la vida de algun enemigo es mayor a 0
+            if (actorsMotor[i + quantityOfAllies].actorsData[3] > 0)
+            {
+                // No ganas
+                isVictory = false;
+            }
+        }
+        // Si ganas
+        if (isVictory == true)
+        {
+            // Se comunica con Scene Battle Motor para avisarle
+            sceneBtl_Motor.CheckEndBattle(isVictory);
+        }
     }
 }

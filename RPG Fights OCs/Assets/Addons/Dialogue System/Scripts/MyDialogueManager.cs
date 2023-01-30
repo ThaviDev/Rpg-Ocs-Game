@@ -23,6 +23,8 @@ public class MyDialogueManager : MonoBehaviour
 
     private void Awake()
     {
+        DontDestroyOnLoad(this.gameObject);
+
         if (Instance is null)
         {
             Instance = this;

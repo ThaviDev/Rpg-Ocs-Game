@@ -107,6 +107,20 @@ public class ScBtl_Motor : MonoBehaviour
             uIMan.actorSelectionStatus = -1;
         }
         
+        
+    }
+    public void CheckEndBattle(bool didVictory)
+    {
 
+        // Si se gana
+        if (didVictory)
+        {
+
+        } 
+        // Si se pierde
+        else
+        {
+
+        }
     }
 }

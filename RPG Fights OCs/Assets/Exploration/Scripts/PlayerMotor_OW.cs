@@ -20,7 +20,6 @@ public class PlayerMotor_OW : MonoBehaviour
         anim = this.transform.Find("Ow Player Visual").gameObject.GetComponent<Animator>();
         // Encontrar el sprite del hijo
         sprite = this.transform.Find("Ow Player Visual").gameObject.GetComponent<SpriteRenderer>();
-        axisIntervention = 0.6f;
     }
 
     void Update()
@@ -45,8 +44,10 @@ public class PlayerMotor_OW : MonoBehaviour
         transform.position = Vector3.MoveTowards(transform.position, new Vector3(transform.position.x, transform.position.y) + mov, movementSpeedIG * Time.deltaTime);
 
         if (Mathf.Abs(axisX) > 0.1 || Mathf.Abs(axisY) > 0.1){
+            anim.SetBool("IsIdle", false);
             anim.SetBool("IsMoving",true);
         } else {
+            anim.SetBool("IsIdle", true);
             anim.SetBool("IsMoving",false);
         }
 

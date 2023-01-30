@@ -24,6 +24,7 @@ public class AbilityScOb : ScriptableObject
     public int[] applic_Turn = new int[1];
     public int[] duration = new int[1];
 
+    // Condiciones para que se aplique la accion
     public int conditionalSuccesionAmount;
 
     public int[] conditionID = new int[1];

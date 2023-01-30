@@ -36,16 +36,14 @@ public class ActorMotor : MonoBehaviour
         //myAnimator = this.gameObject.transform.GetChild(0).GetComponent<Animator>();
         InsertValuesScOb();
     }
-
-    // Update is called once per frame
     void Update()
     {
         if (actorIsActing)
         {
-            animator.SetInteger("AbilNum", (int)actorsData[1]);
+            animator.SetInteger("BattleAbil", (int)actorsData[1] + 1);
         } else
         {
-            animator.SetInteger("AbilNum", -1);
+            animator.SetInteger("BattleAbil", 0);
         }
         /*
         actionDatatest = actorScOb.abilities[0].actionObjective[0];
@@ -145,27 +143,6 @@ public class ActorMotor : MonoBehaviour
     void InsertValuesScOb()
     {
         visualGM.GetComponent<Animator>().runtimeAnimatorController = actorScOb.animControl;
-        /*
-        // No tiene ninguna habilidad seleccionada
-        actorsData[1] = 0;
-        // Vida Máxima Presente = Vida Máxima Inicial
-        actorsData[2] = actorScOb.actorsData[0];
-        // Vida Presente = Vida Inicial
-        actorsData[3] = actorScOb.actorsData[1];
-        // Velocidad Presente = Velocidad Inicial
-        actorsData[4] = actorScOb.actorsData[2];
-        // Multi Daño = Multi Inicial Daño
-        actorsData[5] = actorScOb.actorsData[3];
-        // Multi Resistencia = Multi Inicial resistencia
-        actorsData[6] = actorScOb.actorsData[4];
-        // Multi Curacion = Multi Inicial Curacion
-        actorsData[7] = actorScOb.actorsData[5];
-        // Multi Aceleracion = Multi Inicial Aceleracion
-        actorsData[8] = actorScOb.actorsData[6];
-        // Multi Desaceleracion = Multi Inicial Desaceleracion
-        actorsData[9] = actorScOb.actorsData[7];
-        */
-
         // No tiene ninguna habilidad seleccionada
         actorsData[1] = 0;
 

@@ -63,8 +63,8 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: AbilNum
-    m_EventTreshold: 0
+    m_ConditionEvent: BattleAbil
+    m_EventTreshold: 1
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2400289583675969821}
   m_Solo: 0
@@ -115,22 +115,22 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 4083348985021625481}
-    m_Position: {x: 200, y: 200, z: 0}
+    m_Position: {x: 320, y: 190, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4394899665425416030}
     m_Position: {x: 0, y: -70, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2400289583675969821}
-    m_Position: {x: 490, y: 40, z: 0}
+    m_Position: {x: 490, y: -20, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 6090753018984192109}
-    m_Position: {x: 180, y: 10, z: 0}
+    m_Position: {x: 190, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2836013772909476945}
-    m_Position: {x: 490, y: 100, z: 0}
+    m_Position: {x: 490, y: 40, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6983008359568823096}
-    m_Position: {x: 490, y: 160, z: 0}
+    m_Position: {x: 490, y: 100, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: 4258305929629578653}
@@ -138,13 +138,12 @@ AnimatorStateMachine:
   - {fileID: 7483316081670814692}
   - {fileID: 5946204300698355054}
   - {fileID: 8521855236812135548}
-  - {fileID: -7897110599758523729}
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 240, y: 110, z: 0}
-  m_EntryPosition: {x: 10, y: 210, z: 0}
-  m_ExitPosition: {x: 10, y: 240, z: 0}
+  m_EntryPosition: {x: 540, y: 190, z: 0}
+  m_ExitPosition: {x: 540, y: 220, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 4083348985021625481}
 --- !u!1102 &-4394899665425416030
@@ -259,20 +258,14 @@ AnimatorController:
   m_Name: Heroe
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: State
+  - m_Name: BattleAbil
     m_Type: 3
     m_DefaultFloat: 0
-    m_DefaultInt: 1
+    m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: AbilNum
-    m_Type: 3
-    m_DefaultFloat: 0
-    m_DefaultInt: -1
-    m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: AbilTurn
-    m_Type: 3
+  - m_Name: IsMoving
+    m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
@@ -283,8 +276,20 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: IsMoving
-    m_Type: 4
+  - m_Name: AbilNum
+    m_Type: 3
+    m_DefaultFloat: 0
+    m_DefaultInt: -1
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: State
+    m_Type: 3
+    m_DefaultFloat: 0
+    m_DefaultInt: 1
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: AbilTurn
+    m_Type: 3
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
@@ -339,9 +344,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: IsIdle
     m_EventTreshold: 0
-  - m_ConditionMode: 6
-    m_ConditionEvent: AbilNum
-    m_EventTreshold: -1
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4083348985021625481}
   m_Solo: 0
@@ -365,8 +367,8 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: AbilNum
-    m_EventTreshold: 1
+    m_ConditionEvent: BattleAbil
+    m_EventTreshold: 2
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2836013772909476945}
   m_Solo: 0
@@ -441,8 +443,8 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 6
-    m_ConditionEvent: AbilNum
-    m_EventTreshold: 2
+    m_ConditionEvent: BattleAbil
+    m_EventTreshold: 3
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6983008359568823096}
   m_Solo: 0
